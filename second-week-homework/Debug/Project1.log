@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\melih\source\repos\Project1\Complex.h(20,8): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\melih\source\repos\Project1\Complex.h(20,22): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Project1.vcxproj -> C:\Users\melih\source\repos\Project1\Debug\Project1.exe
