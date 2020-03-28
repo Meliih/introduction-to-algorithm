@@ -1,0 +1,7 @@
+﻿  homework4.cpp
+C:\Users\melih\Desktop\4-week-homework\homework4.cpp(15,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\melih\Desktop\4-week-homework\homework4.cpp(44,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Quadrilateral.cpp
+  Triangle.cpp
+  Kod Üretiliyor...
+  4-week-homework.vcxproj -> C:\Users\melih\Desktop\4-week-homework\Debug\4-week-homework.exe
